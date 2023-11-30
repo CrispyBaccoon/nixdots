@@ -24,7 +24,6 @@ in
 
   home.packages = with pkgs; [
     waybar
-    rofi-wayland
     swww
 
     wl-clipboard

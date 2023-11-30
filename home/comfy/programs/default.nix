@@ -8,6 +8,7 @@ in
     ./nvim.nix
     ./zsh.nix
     ./rust.nix
+    ./rofi.nix
     ./spotify.nix
     ./vtcol.nix
   ];
